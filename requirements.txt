@@ -1,0 +1,16 @@
+# SENTINEL-X Dependencies
+# 🏆 Gemini 3 Global Hackathon Edition
+
+# AI & Core
+google-generativeai==0.8.3
+python-dotenv==1.0.1
+Pillow==10.4.0
+
+# Industrial Protocols
+pymodbus==3.7.0
+psutil==5.9.8
+
+# UI & Vision
+opencv-python-headless==4.10.0.84
+rich==13.7.1
+numpy==1.26.4
